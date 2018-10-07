@@ -12,6 +12,8 @@
 		E16416E621681862004BA090 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E16416E421681862004BA090 /* Main.storyboard */; };
 		E16416E821681865004BA090 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E16416E721681865004BA090 /* Assets.xcassets */; };
 		E16416EB21681865004BA090 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E16416E921681865004BA090 /* LaunchScreen.storyboard */; };
+		E16416F4216A59A0004BA090 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16416F3216A59A0004BA090 /* Concentration.swift */; };
+		E16416F6216A5D0C004BA090 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16416F5216A5D0C004BA090 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		E16416E721681865004BA090 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E16416EA21681865004BA090 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E16416EC21681865004BA090 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E16416F3216A59A0004BA090 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		E16416F5216A5D0C004BA090 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				E16416E221681862004BA090 /* ViewController.swift */,
 				E16416E421681862004BA090 /* Main.storyboard */,
+				E16416F3216A59A0004BA090 /* Concentration.swift */,
+				E16416F5216A5D0C004BA090 /* Card.swift */,
 				E16416EC21681865004BA090 /* Info.plist */,
 				E16416F22168195E004BA090 /* Supporting Files */,
 			);
@@ -145,6 +151,8 @@
 			files = (
 				E16416E321681862004BA090 /* ViewController.swift in Sources */,
 				E16416E121681862004BA090 /* AppDelegate.swift in Sources */,
+				E16416F4216A59A0004BA090 /* Concentration.swift in Sources */,
+				E16416F6216A5D0C004BA090 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
