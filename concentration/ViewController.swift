@@ -5,7 +5,7 @@
 //  Created by Andreas on 06.10.18.
 //  Copyright © 2018 Andreas. All rights reserved.
 //
-// this shall be the master
+
 
 import UIKit
 
@@ -30,7 +30,6 @@ class ViewController: UIViewController
             updateViewFromModel()
         } else {
             print("chosen card was not in CardButtons")
-            print()
         }
     }
         
