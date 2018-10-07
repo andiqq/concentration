@@ -5,6 +5,7 @@
 //  Created by Andreas on 06.10.18.
 //  Copyright © 2018 Andreas. All rights reserved.
 //
+// This is the branch for the homework
 
 
 import UIKit
@@ -30,6 +31,7 @@ class ViewController: UIViewController
             updateViewFromModel()
         } else {
             print("chosen card was not in CardButtons")
+            print("faulty userInterface")
         }
     }
         
